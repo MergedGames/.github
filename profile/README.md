@@ -3,10 +3,12 @@
 **Welcome to our Github organization here you can find useful information on Merged and its progress as well as all the developer tools needed to build your own gamemode.**
 
 ## 🚧 Status
-To see our progress, take a look at our public roadmap [here.](https://github.com/orgs/MergedGames/projects/1)
+<!-- To see our progress, take a look at our public roadmap [here.](https://github.com/orgs/MergedGames/projects/1)
+
+And while you're already here, you should join our discord, where we will be announcing the most significant developments. -->
 To see our progress, take a look at our public roadmap, and while you're already here, you should join our discord, where we will be announcing the most significant developments.
 
-![Group](https://github.com/MergedGames/.github/assets/70103896/5865e00c-855a-492f-9340-adeae576926e)
+<!-- ![Group](https://github.com/MergedGames/.github/assets/70103896/5865e00c-855a-492f-9340-adeae576926e) -->
 
 <table>
     <td>
@@ -16,4 +18,3 @@ To see our progress, take a look at our public roadmap, and while you're already
         <a href="https://discord.gg/WS2Nk9KjRg"> <b>Discord</b> </a>
     </td>
 </table>
-
