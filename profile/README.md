@@ -1,6 +1,6 @@
 ![merged](https://github.com/MergedGames/.github/assets/70103896/80993591-b2c2-4446-9ea7-0564a8b45dbe)
 
-**Welcome to our Github here you can find useful information on Merged and its progress as well as all the developer tools needed to build your own gamemode.**
+**Welcome to our Github organization here you can find useful information on Merged and its progress as well as all the developer tools needed to build your own gamemode.**
 
 ## 🚧 Status
 To see our progress, take a look at our public roadmap [here.](https://github.com/orgs/MergedGames/projects/1)
