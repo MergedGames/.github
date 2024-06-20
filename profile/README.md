@@ -1,1 +1,1 @@
-![merged](https://github.com/MergedGames/.github/assets/70103896/77aed3ea-ee0e-4dac-b18c-d875c3a58c6f)
+![merged](https://github.com/MergedGames/.github/assets/70103896/80993591-b2c2-4446-9ea7-0564a8b45dbe)
