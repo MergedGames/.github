@@ -18,3 +18,5 @@ To see our progress, take a look at our public roadmap, and while you're already
         <a href="https://discord.gg/WS2Nk9KjRg"> <b>Discord</b> </a>
     </td>
 </table>
+
+<sub>[EpilogueTeam](https://github.com/EpilogueTeam) © 2024 All rights reserved.</sub>
